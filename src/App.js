@@ -1,10 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
+import Registration from './pages/registration';
 
 function App() {
-  return (
-    <h1>Palash Halder</h1>
-  );
+  return <Registration />
 }
 
 export default App;
