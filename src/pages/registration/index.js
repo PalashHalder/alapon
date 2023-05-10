@@ -3,9 +3,8 @@ import React from "react";
 const Registration = () => {
     return <div className="flex">
         <div className="w-2/4 flex justify-end">
-            <div className="mr-16 mt-56">
-            <h3 className="font-nunito font-bold text-4xl text-heading"> Get started with easily register
-            </h3>
+            <div className="mr-16 mt-16">
+            <h3 className="font-nunito font-bold text-4xl text-heading"> Get started with easily register</h3>
             <p className="font-nunito font-regular text-xl text-secondary mt-3.5">Free register and you can enjoy it</p>
             
             <div className="relative mt-16">
